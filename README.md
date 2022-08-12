@@ -1,6 +1,8 @@
-<h1>Meu-Cronômetro</h1>
+<h1>Shopping Mobile</h1>
 
-<h2> Construi esse cronômetro no <a href="https://rodolfomori.com.br/devclub/">DevClub</a> usando os métodos de tempo JavaScript setTimeout() e clearTimeout() que ajudam nas implementações relacionadas ao intervalo de tempo. O cronômetro possui um display e três botões. O visor mostra a hora e os três botões para iniciar, parar e zerar o cronômetro.</h2>
+<h2> #ResponsividadeCSS
+No universo da programação web, a responsividade sugere que o design do website responda dinamicamente ao ambiente atual, com base no tamanho da tela, plataforma e orientação.
+#estetica #acessibilidade #usabilidade</h2>
 <br>
 <h2>Tecnologias utilzadas 🔧</h2>
 <br>
@@ -13,7 +15,11 @@
 <br />
 
 
-https://user-images.githubusercontent.com/109625584/180126628-6c82e25e-42da-43de-a618-5cb8fb81c060.mp4
+
+
+https://user-images.githubusercontent.com/109625584/184418678-7f33b5f7-24c6-4738-a63a-9617b84890d3.mp4
+
+
 
 
 
