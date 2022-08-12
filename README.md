@@ -1,8 +1,9 @@
 <h1>Shopping Mobile</h1>
 
-<h2> #ResponsividadeCSS
-No universo da programação web, a responsividade sugere que o design do website responda dinamicamente ao ambiente atual, com base no tamanho da tela, plataforma e orientação.
-#estetica #acessibilidade #usabilidade</h2>
+<h2> #ResponsividadeCSS</h2>
+<h2>No universo da programação web, a responsividade sugere que o design do website responda dinamicamente ao ambiente atual, com base no tamanho da tela, plataforma e orientação.</h2>
+<br>
+#estetica #acessibilidade #usabilidade
 <br>
 <h2>Tecnologias utilzadas 🔧</h2>
 <br>
